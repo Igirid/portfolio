@@ -1,0 +1,32 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+
+    .rotate-enter-active,
+    .rotate-leave-active {
+        @apply transition duration-500 ease-in;
+    }
+
+    .rotate-enter-from,
+    .rotate-leave-to {
+        @apply transform rotate-180;
+    }
+}
+
+@layer utilities {
+    .slide-fade-enter-active {
+        transition: all .3s ease-out;
+    }
+
+    .slide-fade-leave-active {
+        transition: all .8s cubic-bezier(1.0, 0.5, 0.8, 1.0);
+    }
+
+    .slide-fade-enter-from,
+    .slide-fade-leave-to {
+        transform: translateX(8rem);
+        opacity: 0;
+    }
+}

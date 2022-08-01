@@ -1,7 +1,7 @@
 <template>
   <div class="flex flex-col my-1 py-2 px-2 h-max hover:border-2 border-dashed border-gray-400">
-    <p class="font-mono mb-2 lg:mb-3 font-bold text-lg pl-2 text-gray-400">Junior Developer <a href="#" class="hover:underline text-gray-300"> @Google</a></p>
-    <p class="font-mono mb-2 lg:mb-3 font-semibold text-base pl-2 text-gray-400">January - May 2018 </p>
+    <p class="font-mono mb-2 lg:mb-3 font-bold text-lg pl-2 text-gray-400">Backend Developer <a href="#" class="hover:underline text-gray-300"> @MakingBosses</a></p>
+    <p class="font-mono mb-2 lg:mb-3 font-semibold text-base pl-2 text-gray-400">April 2022 </p>
     
     <div class="grid gap-2 px-2 my-2">
       <div

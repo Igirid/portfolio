@@ -13,7 +13,7 @@
       "
     >
       <div class="flex justify-center gap-8 md:flex-col md:items-start mb-4">
-        <a href="https://facbook.com/david.igiri.1" class="text-gray-300 hover:text-gray-400 md:text-blue-700 md:hover:text-blue-800">
+        <a href="https://facebook.com/david.igiri.1" class="text-gray-300 hover:text-gray-400 md:text-blue-700 md:hover:text-blue-800">
           <span class="sr-only">Facebook</span>
           <svg
             class="w-6 h-6"
@@ -28,7 +28,7 @@
             ></path>
           </svg>
         </a>
-        <a href="https://instagram.com/davisjuney" class="text-gray-300 hover:text-gray-400 md:text-blue-700 md:hover:text-blue-800">
+        <a href="https://instagram.com/david_igiri" class="text-gray-300 hover:text-gray-400 md:text-blue-700 md:hover:text-blue-800">
           <span class="sr-only">Instagram</span>
           <svg
             class="w-6 h-6"
@@ -71,7 +71,7 @@
             ></path>
           </svg>
         </a>
-        <a href="https://linkedin.com/in/software-angel" class="text-gray-300 hover:text-gray-400 md:mb-16 md:text-blue-700 md:hover:text-blue-800">
+        <a href="https://linkedin.com/in/igirid" class="text-gray-300 hover:text-gray-400 md:mb-16 md:text-blue-700 md:hover:text-blue-800">
           <span class="sr-only">Linked in</span>
           <svg
             class="w-6 h-6"
@@ -105,7 +105,7 @@
         items-end
       "
     >
-      <a href="mailto:sindavisigiri@gmail.com?cc=davidtechysavvy@gmail.com">
+      <a href="mailto:igiridavid2@gmail.com?cc=sindavisigiri@gmail.com">
         <p
           class="
             text-gray-500 
@@ -118,7 +118,7 @@
             -mr-12
           "
         >
-          sindavisigiri@gmail.com
+          igiridavid2@gmail.com
         </p>
       </a>
 

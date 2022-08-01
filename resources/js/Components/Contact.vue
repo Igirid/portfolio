@@ -61,7 +61,7 @@
       "
     >
       <a
-        href="mailto:sindavisigiri@gmail.com?cc=davidtechysavvy@gmail.com"
+        href="mailto:igiridavid2@gmail.com?cc=sindavisigiri@gmail.com"
         class="font-medium text-base inline-block h-10 md:h-14 p-2 md:p-3"
       >
         Hire Me

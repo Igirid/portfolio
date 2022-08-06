@@ -36,11 +36,35 @@
         >
             Other noteworthy projects
         </p>
-        <div class="grid lg:grid-cols-3 md:grid-cols-2 gap-6 md:mr-20">
-            <simple-card />
-            <simple-card />
-            <simple-card />
-            <simple-card />
+        <div class="grid lg:grid-cols-3 md:grid-cols-2 gap-6 md:mr-20 p-4">
+            <simple-card
+                :githubLink="''"
+                :cardLink="''"
+                :content="`Majestic Roobee is an Online Store for your Amazing Luxurious Designer Oil Fragrances, Ikeja, Lagos, Nigeria.`"
+                :title="`Majestic Roobee`"
+                :tags="['OpenCart', 'PHP']"
+            />
+            <simple-card
+                :githubLink="''"
+                :cardLink="''"
+                :content="`Edo State Insurance company. Strengthen the Healthcare system by reducing out-of-pocket spending & improve access to effective, efficient & sustainable healthcare.`"
+                :title="`Edhic`"
+                :tags="['Mysql', 'Laravel']"
+            />
+            <simple-card
+                :githubLink="''"
+                :cardLink="''"
+                :content="`Edo State Insurance company. Strengthen the Healthcare system by reducing out-of-pocket spending & improve access to effective, efficient & sustainable healthcare.`"
+                :title="`Naiarbox API`"
+                :tags="['Mysql', 'Laravel']"
+            />
+            <simple-card
+                :githubLink="''"
+                :cardLink="''"
+                :content="`Edo State Insurance company. Strengthen the Healthcare system by reducing out-of-pocket spending & improve access to effective, efficient & sustainable healthcare.`"
+                :title="`PHP Parallex package`"
+                :tags="['PHP', 'Encryption', 'Decryption']"
+            />
         </div>
     </div>
 </template>

@@ -1,6 +1,6 @@
 <template>
     <div
-        class="flex flex-col md:flex-row md:mx-32 lg:mx-44 my-10 md:my-24 mx-4"
+        class="flex flex-col md:flex-row md:justify-between md:mx-32 lg:mx-44 my-10 md:my-24 mx-4"
         id="about"
     >
         <div class="flex flex-col w-full lg:w-2/3">
@@ -89,17 +89,29 @@
     </div>
     -->
         <div
+            class="relative md:w-56 gap-2 w-4/6 md:py-12 mx-2 my-8 md:my-0 md:h-auto"
+        >
+            <img
+                src="/img/igirid3.jpeg"
+                alt="David Igiri"
+                class="absolute rounded-lg hover:blur-sm shadow-sm z-10 opacity-70 hover:opacity-100 h-80"
+            />
+            <div
+                class="col-span-1 row-start-1 row-span-1 mt-4 hover:mt-6 ml-4 hover:ml-6 border-2 border-gray-200 hover:border-gray-400 h-80 w-56"
+            ></div>
+        </div>
+        <!-- <div
             class="grid grid-cols-1 grid-rows-1 md:w-1/3 gap-2 w-4/6 md:py-12 mx-2 my-8 md:my-0 md:h-1/3"
         >
             <img
-                src="/img/igirid.jpg"
+                src="/img/igirid3.jpeg"
                 alt="David Igiri"
-                class="col-start-1 col-span-1 row-start-1 row-span-1 rounded-lg hover:blur-sm shadow-sm z-10 opacity-70 hover:opacity-100"
+                class="col-start-1 col-span-1 row-start-1 row-span-1 rounded-lg hover:blur-sm shadow-sm z-10 opacity-70 hover:opacity-100 w-full"
             />
             <div
                 class="col-start-1 col-span-1 row-start-1 row-span-1 mt-4 hover:mt-6 ml-4 hover:ml-6 border-2 border-gray-200 hover:border-gray-400 h-full w-full"
             ></div>
-        </div>
+        </div> -->
     </div>
 </template>
 <script>

@@ -17,14 +17,21 @@
             <hr class="w-2/6 md:2/4 font-semibold ml-3 md:mx-6 mt-4" />
         </div>
         <card
-            :tags="['Vue js', 'Laravel', 'Bootstrap']"
+            :tags="['Nuxt js','Vue js', 'Adonis js', 'Node js']"
+            :content="`A Revolutionary Approach To Business Management`"
+            :theme="'Tinock'"
+            :imageUrl="`/img/tinock.png`"
+            :githubLink="`https://tinock.com/`"
+        />
+        <card
+            :tags="['Vue js', 'Laravel', 'Mysql', 'Bootstrap']"
             :content="`A reality talent show, showcasing Nigeria's strongest undiscovered vocalists as they compete for an ultimate prize with the help of some established superstar coaches.`"
             :theme="'The Voice Nigeria'"
             :imageUrl="`https://res.cloudinary.com/dgs1cnxex/image/upload/c_scale,h_285,w_660/v1659276824/portfolio/thevoice_mooiie.webp`"
             :githubLink="`https://thevoicenigeria.com/`"
         />
         <card
-            :tags="['Vue js', 'Laravel', 'Tailwind']"
+            :tags="['Vue js', 'Laravel', 'Mysql', 'Tailwind']"
             :content="`VoteStudio - Engage with your favourite Reality TV formats from Africa and around the world.`"
             :theme="'VoteStudio'"
             :imageUrl="`https://res.cloudinary.com/dgs1cnxex/image/upload/v1659276823/portfolio/vs_dbjemd.webp`"
@@ -42,7 +49,7 @@
                 :cardLink="''"
                 :content="`Majestic Roobee is an Online Store for your Amazing Luxurious Designer Oil Fragrances, Ikeja, Lagos, Nigeria.`"
                 :title="`Majestic Roobee`"
-                :tags="['OpenCart', 'PHP']"
+                :tags="['OpenCart', 'PHP', 'Cloud']"
             />
             <simple-card
                 :githubLink="''"

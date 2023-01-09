@@ -33,8 +33,9 @@ import { reactive } from "vue";
 export default {
   setup() {
     const deeds = reactive([
-      "Collaborated with a small team of student designers to spearhead a new brand and design system for Scout’s inaugural student-led design conference at Northeastern",
-      "Collaborated with a small team of student designers to spearhead a new brand and design system for Scout’s inaugural student-led design conference at Northeastern",
+      "Developed web applications backend and frontend components and communicated with clients to identify their needs.",
+      "Improved API usage and support by creating documentation with OpenAPI specifications thereby addressing all use cases of company services",
+      // "Used advanced queries to achieve analytics, logging and reporting requirements within performance constraints",
     ]);
 
     return { deeds };

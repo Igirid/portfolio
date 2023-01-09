@@ -36,7 +36,7 @@
                 <p class="text-gray-400 font-medium text-base">
                     As of today, I've had the privilege of working at
                     <a
-                        href="https://majesticroobee.com"
+                        href="https://www.digicomme.com/"
                         target="_blank"
                         class="text-blue-800"
                         >Digicomme Solutions
@@ -94,7 +94,7 @@
             <img
                 src="/img/igirid3.jpeg"
                 alt="David Igiri"
-                class="absolute rounded-lg hover:blur-sm shadow-sm z-10 opacity-70 hover:opacity-100 h-80"
+                class="absolute rounded-lg hover:blur-sm shadow-sm z-10 opacity-70 hover:opacity-100 h-80 w-52"
             />
             <div
                 class="col-span-1 row-start-1 row-span-1 mt-4 hover:mt-6 ml-4 hover:ml-6 border-2 border-gray-200 hover:border-gray-400 h-80 w-56"
@@ -126,7 +126,9 @@ export default {
             "React js",
             "Node js",
             "Typescript",
-            "Kotlin",
+            "Tailwind",
+            "Bootstrap",
+            // "Kotlin",
         ]);
 
         return { technologies };
